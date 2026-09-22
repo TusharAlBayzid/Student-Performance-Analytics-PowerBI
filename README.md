@@ -1,4 +1,5 @@
 🎓 Student Performance Analytics Dashboard
+
 📌 Project Overview
 This project is an interactive Data Analytics dashboard developed using Microsoft Power BI to evaluate student academic performance. By processing and modeling raw educational data, this dashboard extracts actionable insights regarding how different demographic factors and preparation strategies impact overall student scores across multiple subjects.
 
@@ -45,6 +46,6 @@ student_performance_100.xlsx : The raw dataset utilized for this data modeling p
 Bayzid Mostak
 Data Analyst | Software Engineer
 
-[LinkedIn] https://www.linkedin.com/in/bayzid-mostak-data-analyst/
+LinkedIn
 
-[GitHub]  https://github.com/TusharAlBayzid
+GitHub
