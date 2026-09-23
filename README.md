@@ -32,8 +32,8 @@ During the development phase, I tackled several data modeling and visualization 
 
 ## 👨‍💻 Author
 
-**Bayzid Mostak**  
-*Data Analyst | Software Engineer*
+**Bayzid Mostak**<br>
+*Data Analyst & Visualization Expert*
 
 * [LinkedIn](https://www.linkedin.com/in/bayzid-mostak-data-analyst/)
 * [GitHub](https://github.com/TusharAlBayzid)
